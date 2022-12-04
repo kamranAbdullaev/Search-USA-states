@@ -1,0 +1,23 @@
+{
+  "name": "search-all-country-usa",
+  "version": "1.0.0",
+  "description": "Search Country USA",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "author": "Kamran Abdullaev",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.2",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^4.0.0"
+  }
+}
