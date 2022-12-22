@@ -1,4 +1,4 @@
-import './style.css';;
+import './style.css';
 import { db_1 } from './DB1.js';
 import { db_2 } from './DB2.js';
 import { db_3 } from './DB3.js';
